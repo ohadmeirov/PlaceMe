@@ -3,5 +3,5 @@
 מבנה הפרויקט:
 - `backend/` – קוד ה-Backend (Java)
 - `frontend/` – קוד ה-Frontend (PlaceMeUI)
-- `algorithm/` – אלגוריתם לניהול טבלאות
+- `algorithm/` – אלגוריתם לניהול שולחנות במסעדה
 
