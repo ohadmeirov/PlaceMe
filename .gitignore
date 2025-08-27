@@ -1,0 +1,25 @@
+﻿# === Java / Maven / Gradle ===
+target/
+build/
+.gradle/
+*.log
+*.class
+*.iml
+out/
+
+# IntelliJ / VSCode
+.idea/
+.vscode/
+*.ipr
+*.iws
+
+# === Node / Frontend ===
+node_modules/
+dist/
+build/
+.npm/
+.cache/
+.DS_Store
+
+# OS
+Thumbs.db
